@@ -85,7 +85,9 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 
             ls -ltr filename.o
             
-![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_11_05 PM](https://github.com/user-attachments/assets/9f080473-bf3f-4333-a673-a8e51ad8408d
+![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_11_09 PM](https://github.com/user-attachments/assets/065daa1e-789d-477d-8d7d-952f527a8f3b)
+
+
 
 ## STEP:5
 
@@ -96,7 +98,7 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
             
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_12_38 PM](https://github.com/user-attachments/assets/1873f725-b02d-4c6b-bf3b-a6432405f8ea)
 
-#### The above code gives a bunch of assembly code so simplify use the below code.
+#### The above code gives a bunch of assembly code so to simplify use the below code.
 
            riscv64-unknown-elf-objdump -d filename.o | less
            

@@ -2,14 +2,14 @@
 This Github-Repo is to track my progress regarding RISC-V based hands-on project research internship 
 
 
-TASK-1
+# TASK-1
 
 Install all the necessary files regarding internship as in riscv_workshop.vdi and visualC++ and oracle virtual-box(which is free and open source virtualization software).Download and do the installation steps and setup virtual machine(its an physical computer but inside a virtual environment)
 
-STEP:1
+## STEP:1
 Open the VDI File using virtual box in windows and open terminal 
 
-STEP:2
+## STEP:2
 Install LEAFPAD (EDITOR)
 
               sudo apt install LEAFPAD
@@ -37,7 +37,7 @@ Write a C program to calculate the sum from 1 to n in the leafpad editor
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_07_26 PM](https://github.com/user-attachments/assets/ee8fea13-cfb2-4efa-85e4-b0cc8e17efd3)
 
-STEP:3
+## STEP:3
 
 RUN AND COMPLILING THE CODE USING THE FOLLOWING COMMANDS and check the output
 
@@ -51,7 +51,7 @@ RUN AND COMPLILING THE CODE USING THE FOLLOWING COMMANDS and check the output
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_09_25 PM](https://github.com/user-attachments/assets/6c44adc6-7629-4203-8e22-d4dcf7287b03)
        
-STEP:4
+## STEP:4
 
 COMPILING THE SAME PROGRAM WITH RISC-V SIMULATOR 
 
@@ -70,7 +70,7 @@ TO generate the file
             ls -ltr filename.o
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_11_05 PM](https://github.com/user-attachments/assets/9f080473-bf3f-4333-a673-a8e51ad8408d
 
-STEP:5
+## STEP:5
 
 ASSEMBLY CODE FOR THE PROGRAM
 
@@ -89,13 +89,13 @@ The above code gives a bunch of assembly code so simplify use the below code.
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_13_29 PM](https://github.com/user-attachments/assets/e1a7623a-23b9-4331-a9d2-b576bcbb5c8f)
 
-STEP:6
+## STEP:6
 
 DISPLAY THE ASSEMBLY CODE 
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_13_37 PM](https://github.com/user-attachments/assets/ecc4f1a3-2616-4aaf-b1e6-1303d041ba96)
 
-STEP:7
+## STEP:7
 
 OBSERVE THE SAME BY GIVING Ofast instead of O1 and display the assembly code
 

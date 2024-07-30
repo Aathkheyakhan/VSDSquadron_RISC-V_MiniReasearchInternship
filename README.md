@@ -42,7 +42,7 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 
 ## STEP:3
 
-#### RUN AND COMPLILING THE CODE USING THE FOLLOWING COMMANDS and check the output
+#### RUN AND COMPLILE THE CODE USING THE FOLLOWING COMMANDS and check the output
 
              gcc.filename.C
              
@@ -120,7 +120,7 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_14_58 PM](https://github.com/user-attachments/assets/cb1994d7-e498-4491-8d90-569c42d4b662)
 
-replace O1 with Ofast in the command
+#### replace O1 with Ofast in the command
 
        riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o filename.o filename.c
        

@@ -18,6 +18,8 @@ run the cd command to make sure we are in home directory
 
               cd
 
+              "C:\Users\khana\Downloads\Riscv task 1\Riscv task 1\IMG_1406.HEIC"
+
 To open the file in editor 
 
              leafpad filename.c &

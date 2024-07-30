@@ -2,7 +2,7 @@
 This Github-Repo is to track my progress regarding RISC-V based hands-on project research internship 
 
 
-                                                            VSDSquadron_RISC-V_MiniReasearchInternship
+                            VSDSquadron_RISC-V_MiniReasearchInternship
 
 TASK-1
 
@@ -14,7 +14,7 @@ Open the VDI File using virtual box in windows and open terminal
 STEP:2
 Install LEAFPAD (EDITOR)
 
-sudo apt install LEAFPAD
+                                                                                 sudo apt install LEAFPAD
 
 run the cd command to make sure we are in home directory 
 

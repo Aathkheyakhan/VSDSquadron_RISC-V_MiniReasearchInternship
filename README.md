@@ -11,7 +11,7 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 
 <br>
 
-#### Install all the necessary files regarding internship as in riscv_workshop.vdi and visualC++ and oracle virtual-box(which is free and open source virtualization software).Download and do the installation steps and setup virtual machine(its an physical computer but inside a virtual environment)
+#### Install all the necessary files regarding internship such as riscv_workshop.vdi and visualC++ and oracle virtual-box(which is free and open source virtualization software).Download and do the installation steps and setup virtual machine(its an physical computer but inside a virtual environment)
 
 ## STEP:1
 #### Open the VDI File using virtual box in windows and open terminal 

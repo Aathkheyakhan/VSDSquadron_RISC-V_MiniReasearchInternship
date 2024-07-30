@@ -84,7 +84,6 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 #### TO generate the file
 
             ls -ltr filename.o
-
             
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_11_05 PM](https://github.com/user-attachments/assets/9f080473-bf3f-4333-a673-a8e51ad8408d
 
@@ -122,7 +121,7 @@ This Github-Repo is to track my progress regarding RISC-V based hands-on project
 
 ## STEP:7
 
-#### OBSERVE THE SAME BY GIVING Ofast instead of O1 and display the assembly code
+#### OBSERVE THE SAME BY REPLACING THE COMMAND WITH Ofast instead of O1 and display the assembly code
 
 
 ![vsdworkshop  Running  - Oracle VM VirtualBox 7_30_2024 6_14_58 PM](https://github.com/user-attachments/assets/cb1994d7-e498-4491-8d90-569c42d4b662)
